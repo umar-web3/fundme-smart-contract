@@ -14,12 +14,10 @@ Features:
 - Includes fallback and receive functions to handle direct ETH transfers.  
 
 
-
 Project Structure:
-fundme-smart-contract
--FundMe.sol # Main crowdfunding contract
--PriceConverter.sol # Library for ETH → USD conversion
--README.md # Project documentation
+- FundMe.sol → Main crowdfunding smart contract  
+- PriceConverter.sol → Library for ETH → USD conversion  
+- README.md → Project documentation  
 
 
 
