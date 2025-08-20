@@ -16,12 +16,10 @@ Features:
 
 
 Project Structure:
-fundme-smart-contract/
-│
-├── FundMe.sol # Main crowdfunding contract
-│── PriceConverter.sol # Library for ETH → USD conversion
-│
-├── README.md # Project documentation
+fundme-smart-contract
+-FundMe.sol # Main crowdfunding contract
+-PriceConverter.sol # Library for ETH → USD conversion
+-README.md # Project documentation
 
 
 
@@ -59,11 +57,3 @@ Future Improvements:
 
 License  
 This project is licensed under the MIT License.  
-
-
-
-
-
-
-├── README.md # Project documentation
-└── LICENSE # License info (MIT)
